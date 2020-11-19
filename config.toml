@@ -58,7 +58,6 @@ disableHugoGeneratorInject = false
   keywords = "software, engineer, homepage, blog, portfolio, resume"
   images = [""]
 
-  homeTitle = "NS" # test
   homeSubtitle = "Software Engineer"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -107,7 +106,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoText     = "sibalnirbhay"
-    logoHomeLink = "/"
+    logoHomeLink = "sibalnirbhay.github.io"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
