@@ -22,7 +22,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin
+git push origin HEAD:master
 
 # Go To Public folder
 cd ..
@@ -38,4 +38,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin
+git push origin HEAD:master
