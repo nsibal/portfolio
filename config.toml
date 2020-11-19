@@ -21,13 +21,13 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
-canonifyURLs = false
+canonifyURLs = true
 
 enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
@@ -106,7 +106,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoText     = "sibalnirbhay"
-    logoHomeLink = "sibalnirbhay.github.io"
+    logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
