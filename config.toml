@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "sibalnirbhay.GitHub.io"
 title   = "Nirbhay Sibal"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -107,7 +107,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoText     = "sibalnirbhay"
-    logoHomeLink = ""
+    logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
