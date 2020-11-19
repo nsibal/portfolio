@@ -1,4 +1,4 @@
-baseURL = "sibalnirbhay.github.io"
+baseURL = "/"
 title   = "Nirbhay Sibal"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -21,7 +21,7 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
-canonifyURLs = false
+canonifyURLs = true
 
 enableRobotsTXT = true
 enableGitInfo   = false
