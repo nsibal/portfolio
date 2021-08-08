@@ -3,9 +3,9 @@ Repo to host the production build of my portfolio.
 
 ![Screenshot preview of website](site-preview.png)
 
-<sub><sup>Screenshot captured on MacBook Pro (Retina, 15-inch, Mid 2015) with display resolution scaled to 1920 by 1200, on Chrome, zoomed at 110%.</sup></sub>
+<sub><sup>Screenshot captured on MacBook Pro (16-inch, 2019) with display resolution scaled to 2048 x 1280, on Google Chrome browser, zoomed at 110%.</sup></sub>
 
-<sub><sup>Last Updated: 04/05/2021</sup></sub>
+<sub><sup>Last Updated: 08/07/2021</sup></sub>
 
 ---
 
