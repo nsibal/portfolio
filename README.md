@@ -1,11 +1,13 @@
 # Portfolio
 Repo to host the production build of my portfolio.
 
-![Screenshot preview of website](site-preview.png)
+| Light | Dark |
+|-------|------|
+| ![Light mode preview](site-preview-light.png) | ![Dark mode preview](site-preview-dark.png) |
 
-<sub><sup>Screenshot captured on MacBook Pro (16-inch, 2019) with display resolution scaled to 2048 x 1280, on Google Chrome browser, zoomed at 110%.</sup></sub>
+<sub><sup>Screenshots captured on MacBook Pro 14" with Apple M1 Pro, with display resolution at 1800 × 1169, on Safari browser.</sup></sub>
 
-<sub><sup>Last Updated: 08/07/2021</sup></sub>
+<sub><sup>Last Updated: 05/04/2026</sup></sub>
 
 ---
 
@@ -19,15 +21,4 @@ Repo to host the production build of my portfolio.
 
 ---
 
-## Credits
-
-* This page is heavily inspired by [Helen Dempsey](https://twitter.com/helen_dmp/)'s [portfolio](http://helen-dempsey.com/).
-* Theme Colors are inspired by [Chordsurfer](http://chordsurfer.redbull.com) by [EPIC](https://www.epic.net/). I found it at [Awwwards](https://www.awwwards.com/sites/chordsurfer#votes).
-* Social icons are from [Bootstrap Icons](https://icons.getbootstrap.com).
-* Logo has been created using [Canva](http://canva.com/).
-* Favicon has been generated using [CloudConvert](https://cloudconvert.com).
-* All company logos have either been downloaded from the respective company's official resources or cropped from their social media accounts.
-
----
-
-Copyright &copy; 2021 Nirbhay Sibal
+Copyright &copy; 2026 Nirbhay Sibal
